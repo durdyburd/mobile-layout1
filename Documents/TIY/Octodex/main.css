@@ -1,0 +1,19 @@
+.octodex {
+  display:flex;
+  flex-wrap: wrap;
+}
+.octocat {
+  border: 1px solid;
+  width: 210px;
+  display: flex;
+}
+.image-footer {
+  flex: auto;
+}
+.image-number {
+}
+.image-caption {
+}
+.span {
+
+}
